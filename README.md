@@ -5,7 +5,6 @@
 ### - List 2: ALL Solved Exercises and 5-5 Proposed Exercises.
 #
 ## Equipe:
-#
 ## Team:
 ### Ana Beatriz Carvalho de Menezes
 ### Isaac Ramos
